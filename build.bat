@@ -1,1 +1,1 @@
-powershell gcc .\main.c -o main.exe -lcurl && powershell .\main.exe
+powershell gcc .\main.c -o main.exe -lcurl
